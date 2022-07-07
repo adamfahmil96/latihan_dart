@@ -9,31 +9,19 @@ For general information about developing packages, see the Dart guide for
 [creating packages](https://dart.dev/guides/libraries/create-library-packages)
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
+
+For general information about writing README 101, see the guide [here](https://www.makeareadme.com/).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+My personal repository for learning Dart language.
 
-## Features
+## Attachments
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+* Latihan Dart
+* Konversi Suhu
+* Segitiga Loop
+* Hitung Nama
 
-## Getting started
+## Resource
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+This repository refers to the results of self-study at class of Dicoding Academy named "Memulai Pemrograman dengan Dart". The learning syllabus can be seen at the following [link](https://www.dicoding.com/academies/191). This class is the first stage of the Learning Path as a [Multi-Platform Application Developer](https://www.dicoding.com/learningpaths/21).
